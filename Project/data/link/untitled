@@ -1,0 +1,7 @@
+var signal = require('Signal');
+
+
+signal.set('ns', 'localhost:8008');
+
+
+signal.endpoint();

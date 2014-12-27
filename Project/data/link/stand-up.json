@@ -1,0 +1,10 @@
+{
+	"name" : "stand-up",
+	"duration" : 1.000,
+	"image" : "data/link.png",
+	"loop" : true,
+
+	"frames" : [
+		"1,184,32,32",
+	]
+}
